@@ -1,5 +1,5 @@
 
-# Analizis exploratorio de datos en pyhton y R
+# Análisis exploratorio de datos en pyhton y R
 
 Este proyecto se centra en realizar un análisis exploratorio de datos (EDA) sobre el efecto de las prohibiciones de fumar en el lugar de trabajo en los trabajadores de interiores. Se utilizan datos recopilados en un archivo CSV que incluye información sobre diversos atributos de los trabajadores, como edad, nivel de educación, género, origen étnico, entre otros, así como su hábito de fumar y la presencia de prohibiciones de fumar en el lugar de trabajo.
 
